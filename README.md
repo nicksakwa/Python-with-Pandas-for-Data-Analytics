@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*RsPKgwrJO-h9DBovrcVBLA.jpeg" alt="Data Analytics Cover photo for python pandas library" width="800">
-</p>
-
 # Python with Pandas for Data 
 
 In this GitHub repository, I discuss data analytics with the Python Pandas library.
