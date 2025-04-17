@@ -1,8 +1,8 @@
-# Python with Pandas for Data 
-
 # Hi there!👋
 
 In this GitHub repository, I discuss data analytics with the Python Pandas library.
+
+# Python with Pandas for Data 
 
 Pandas is a  core library used for reading, analyzing, cleaning, and visualizing data from CSV files, excel sheets, JSON data, and SQL databases.
 
