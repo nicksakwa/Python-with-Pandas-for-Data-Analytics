@@ -13,11 +13,11 @@ Pandas is a  core library used for reading, analyzing, cleaning, and visualizing
 * **Cleaning Data:** Dealing with missing rows and columns from data, duplicates, inconsistencies, and other errors.
 * **Visualizing Data:** Generating charts and graphs from Data.
 
-## For this repository the prerequisites are
+## For this repository, the prerequisites are:
 
 Before diving into this repository, ensure you have the following installed:
 
-1.  **Python:** Whcih you can download from the [official Python website](https://www.python.org/downloads/).
+1.  **Python:** Which you can download from the [official Python website](https://www.python.org/downloads/).
 2.  **Pandas:** Install the library using pip in your bash terminal or your directory:
     ```bash
     pip install pandas
@@ -27,7 +27,7 @@ Before diving into this repository, ensure you have the following installed:
 
 To execute the Python scripts in this repository:
 
-1.  Navigate to the directory containing the `.py` files in your terminal.
+1.  Navigate to the directory containing the .py` files in your terminal.
 2.  Run the desired script using the Python interpreter:
     ```bash
     python filename.py
@@ -55,14 +55,4 @@ This repository demonstrates the usage of various essential Pandas methods, incl
 * **Scatter Plot:** Creates scatter graphs to visualize the relationship between two variables.
 * **Histogram:** Generates histogram plots to visualize the distribution of a single variable.
 
-```python
-# Example of a simple Pandas plot
-import pandas as pd
-import matplotlib.pyplot as plt
 
-data = {'x': [1, 2, 3, 4, 5], 'y': [2, 4, 1, 3, 5]}
-df = pd.DataFrame(data)
-df.plot(x='x', y='y', kind='line', title='Simple Line Plot')
-plt.xlabel('X-axis')
-plt.ylabel('Y-axis')
-plt.show()
